@@ -1,5 +1,5 @@
 # GitHub
-Author: Hark Dhami
+Author Hark Dhami
 <br />
 GitHub Basics
 <br />
